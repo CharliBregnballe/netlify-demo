@@ -9,7 +9,7 @@ function App() {
       </div>
       <div className="content">
         <h1>Martin og Charlis liveband</h1>
-        <p>Call me maybe?</p>
+        <p>Call me maybe? +45 61669876</p>
        
         {/* <Form /> */}
       </div>
