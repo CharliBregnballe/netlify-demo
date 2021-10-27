@@ -1,5 +1,5 @@
 import './App.css';
-//import Form from "./components/form"
+import Form from "./components/form"
 
 function App() {
   return (
@@ -11,7 +11,7 @@ function App() {
         <h1>Martin og Charlis liveband</h1>
         <p>Call me maybe? +45 61669876</p>
        
-        {/* <Form /> */}
+        <Form />
       </div>
     </div>
   );
